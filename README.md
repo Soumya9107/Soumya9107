@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Soumyajit Maity
+# 💫 Hi 👋, I'm Soumyajit
 **A passionate Full Stack Web Developer from India**
 
 Email Me 👉 ✉️ **soumyjitmaity31@gmail.com** For Collaboration/Project or Anything Else. 😊😊
