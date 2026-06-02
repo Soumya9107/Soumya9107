@@ -8,6 +8,8 @@ Email Me 👉 ✉️ **soumyjitmaity31@gmail.com** For Collaboration/Project or 
 - 📫 **How to reach me:** soumyjitmaity31@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
+- ![](https://komarev.com/ghpvc/?username=Soumya9107)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/16zhdeyc5c/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soumyajit-maity-80123a360) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/sytmty?t=sr-vfypoiqofghpar0vwvg&s=08) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumyjitmaity31@gmail.com) 
 
