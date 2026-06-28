@@ -23,7 +23,12 @@ Email Me 👉 ✉️ **soumyjitmaity31@gmail.com** For Collaboration/Project or 
 </div>
 
 # 📊 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Soumya9107&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Soumya9107&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=Soumya9107&theme=github_dark&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Soumya9107&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8" height="150"/>
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Soumya9107)  
 
