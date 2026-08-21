@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Soumyajit
 **A passionate Full Stack Web Developer from India**
 
-Email Me 👉 ✉️ **soumyjitmaity31@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **soumyjitmaity31@gmail.com** For Collaboration/Project/Freelance or Anything Else. 😊😊
 
 - 🌱 **I’m currently learning:** DSA,Web Development
 - 💬 **Ask me about:** C,C++,Python,Javascript
