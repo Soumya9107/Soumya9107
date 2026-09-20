@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Soumya9107's GitHub profile" src="dark_mode.svg" />
+</picture>
 # 💫 Hi 👋, I'm Soumyajit
 **A passionate Full Stack Web Developer from India**
 
