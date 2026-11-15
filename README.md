@@ -3,8 +3,8 @@
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="Soumya9107's GitHub profile" src="dark_mode.svg" />
 </picture>
-# 💫 Hi 👋, I'm Soumyajit
-**A passionate Full Stack Developer from India**
+# 💫 Hi 👋, I'm Soumyajit,
+A passionate Full Stack Developer from Kolkata
 
 Email Me 👉 ✉️ **soumyjitmaity31@gmail.com** For Collaboration/Project/Freelance or Anything Else. 😊😊
 
