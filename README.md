@@ -8,7 +8,7 @@
 
 Email Me 👉 ✉️ **soumyjitmaity31@gmail.com** For Collaboration/Project/Freelance or Anything Else. 😊😊
 
-- 🌱 **I’m currently learning:** DSA,Web Development
+- 🌱 **I’m currently learning:** DSA,Backend Development
 - 💬 **Ask me about:** C,C++,Python,Javascript
 - 📫 **How to reach me:** soumyjitmaity31@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
